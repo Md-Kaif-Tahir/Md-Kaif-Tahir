@@ -20,7 +20,7 @@ Let's embark on a digital odyssey together, where every line of code holds a sec
 Ready for a data-driven adventure? Let's code the story of tomorrow, one line at a time! 🚀✨
 
 ### Connect with Me:
-- LinkedIn: [Mohammad Kaif Tahir](https://www.linkedin.com/in/mohammad-kaif-tahir/)
+- LinkedIn: [Mohammad Kaif Tahir](https://www.linkedin.com/in/kaif-tahir/)
 - GitHub: [Md-Kaif-Tahir](https://github.com/Md-Kaif-Tahir)
 
 ### 🌟 May Your Code Compile and Your Stories Resonate!
